@@ -19,6 +19,7 @@ Install dependencies with:
 
 ```bash
 pip install opencv-python mediapipe matplotlib nibabel scikit-image plotly
+```
 
 
 ## 📂 How It Works
